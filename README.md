@@ -10,16 +10,17 @@ Reference : [SF Salaries Dataset](https://www.kaggle.com/datasets/kaggle/sf-sala
 ## Overview
 The database contains salary information of different employees in various organizations. The objective is to analyze whether Overtime Pay, Other Pay, and benefits collectively increase with Basic Pay for the year 2014.
 
+## Visualizations
+We will create visualizations to better understand the dataset's characteristics:
+- **Most Viewed Movies:** Visual representation of the movies with the highest view counts.
+- **Movie Ratings Distribution:** Visualization depicting the distribution of user ratings.
+- **Genre Analysis:** Insights into user preferences through genre-based visualizations.
+
+
 ## Analysis Approaches
-
-### A) Simple Linear Regression Analysis
-We performed a simple linear regression analysis to investigate the relationship between Basic Pay and the combined effect of Overtime Pay, Other Pay, and benefits.
-
-### B) Simple Non-linear Regression Analysis with Degree 2
-We extended our analysis by applying a simple non-linear regression analysis with a polynomial equation of degree 2. This approach allows us to capture potential curvilinear relationships in the data.
-
-### C) Simple Non-linear Regression Analysis with Degree 3
-To explore further complexities, we conducted another non-linear regression analysis, this time with a polynomial equation of degree 3. This approach can better capture intricate relationships between variables.
+- **Simple Linear Regression Analysis:** We performed a simple linear regression analysis to investigate the relationship between Basic Pay and the combined effect of Overtime Pay, Other Pay, and benefits.
+- **Simple Non-linear Regression Analysis with Degree 2:** We extended our analysis by applying a simple non-linear regression analysis with a polynomial equation of degree 2. This approach allows us to capture potential curvilinear relationships in the data.
+- **Simple Non-linear Regression Analysis with Degree 3:** To explore further complexities, we conducted another non-linear regression analysis, this time with a polynomial equation of degree 3. This approach can better capture intricate relationships between variables.
 
 ## R^2 Values Calculation
 
