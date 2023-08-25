@@ -12,13 +12,13 @@ The database contains salary information of different employees in various organ
 
 ## Analysis Approaches
 
-### i. Simple Linear Regression Analysis
+### A). Simple Linear Regression Analysis
 We performed a simple linear regression analysis to investigate the relationship between Basic Pay and the combined effect of Overtime Pay, Other Pay, and benefits.
 
-### ii. Simple Non-linear Regression Analysis with Degree 2
+### B). Simple Non-linear Regression Analysis with Degree 2
 We extended our analysis by applying a simple non-linear regression analysis with a polynomial equation of degree 2. This approach allows us to capture potential curvilinear relationships in the data.
 
-### iii. Simple Non-linear Regression Analysis with Degree 3
+### C). Simple Non-linear Regression Analysis with Degree 3
 To explore further complexities, we conducted another non-linear regression analysis, this time with a polynomial equation of degree 3. This approach can better capture intricate relationships between variables.
 
 ## R^2 Values Calculation
