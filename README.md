@@ -33,5 +33,5 @@ The R^2 value for the non-linear regression analysis with a polynomial equation 
 The R^2 value for the non-linear regression analysis with a polynomial equation of degree 3 measures the goodness of fit of the model when accounting for potential cubic relationships among the variables.
 
 ## Conclusion
-Through our analysis using different regression techniques, we aimed to understand the relationship between Basic Pay and the cumulative impact of
+Through our analysis using different regression techniques, we aimed to understand the relationship between Basic Pay and the cumulative impact of Overtime Pay, Other Pay, and benefits. The R^2 values obtained from each analysis provide insights into the explanatory power of the models. These results contribute to a comprehensive understanding of how these variables interact.
 
