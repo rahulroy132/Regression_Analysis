@@ -3,7 +3,8 @@ Group G03 IDA Project
 
 Topic 3 : Regression analysis for establishing a relation between response and regressor variables
 
-Reference : 
+Reference : [SF Salaries Dataset](https://www.kaggle.com/datasets/kaggle/sf-salaries)
+
 # Group G01 PDS Project: Movie Recommendation System
 
 This repository contains the code and documentation for our Group G01 PDS project focused on building a Movie Recommendation System. The project involves performing Exploratory Data Analysis (EDA) on a Movie Dataset, visualizing movie statistics, calculating similarity based on user ratings, and interpreting user reviews based on genre.
